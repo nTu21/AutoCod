@@ -1,4 +1,4 @@
-name: Commit GoGreen
+name: Commit Go-Green
 
 on:
   workflow_dispatch:
